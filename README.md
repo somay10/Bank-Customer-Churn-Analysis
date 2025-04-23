@@ -6,10 +6,10 @@ Identify high-risk customers
 Build visuals to support business decisions
 Provide actionable insights for retention
 # Tools
-SQL (for data analysis)
+SQL (for data analysis),
 Power BI (for dashboard visualization)
 # Skills Gained
-Customer Behavior Analysis
-Data Cleaning and SQL Queries
-Data Visualization in Power BI
+Customer Behavior Analysis,
+Data Cleaning and SQL Queries,
+Data Visualization in Power BI,
 Business Strategy Thinking
